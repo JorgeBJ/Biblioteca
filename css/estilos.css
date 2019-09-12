@@ -1,0 +1,57 @@
+body{
+  background-color: rgb(173, 223, 235);
+  font-family: serif;
+}
+
+.error{
+  display: none;
+}
+
+
+.formulario-inline{
+  display: inline !important;
+}
+
+.linea{
+	display: inline !important;
+}
+
+.menuUsuario{
+	padding-top: 0.5em;
+	background-color: rgba(60, 160, 174, 0.8) !important;
+	margin-bottom: 0.3em;
+	box-shadow: 2px 2px 2px 2px rgba(44, 85, 97,1);
+}
+
+.btn-info{
+	background-color: rgb(60, 160, 174) !important;
+}
+
+.btn-info:hover{
+	background-color: rgb(127, 191, 200) !important;
+}
+
+.glyphicon-upload{
+	color: rgb(60, 160, 174) !important;
+}
+
+.glyphicon-download{
+	color: rgb(60, 160, 174) !important;
+}
+
+.fondo-azul{
+		background-color: transparent !important;
+}
+
+.mostrar{
+	border-style: solid;
+	border-width: 0.3em;
+	box-shadow: 0px 0px 5px 2px rgba(44, 85, 97,1);
+	border-color: rgba(60, 160, 174);
+	margin-bottom: 1em;
+
+}
+
+.formulario-inline{
+	display: inline !important;
+}
